@@ -1,2 +1,6 @@
 My name is yashswi
+<<<<<<< HEAD
 bnbnvv
+=======
+hi
+zzz
